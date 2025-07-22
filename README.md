@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=D6BCFA&vCenter=true&width=435&lines=Welcome+to+my+creative+space!;Web+Dev+%7C+DFX+%7C+Pixel+Art+Fan;Tailwind+CSS+%F0%9F%92%8E+Purple%2C+Black+%26+White+Vibes" alt="Typing SVG" />
 
 <br>
-<img src="[https://user-images.githubusercontent.com/1106282/233867509-dc5f6cfa-2f05-4a8b-9e5a-d8e9a1e2b9c4.png](https://alo.ne/i/j4ec4i)" width="200" alt="Cat Mascot" />
+<img src="[https://user-images.githubusercontent.com/1106282/233867509-dc5f6cfa-2f05-4a8b-9e5a-d8e9a1e2b9c4.png](https://alo.ne/file/j4ec4i)" width="200" alt="Cat Mascot" />
 
 <h2>
   <span style="color:#D6BCFA">rest1111</span>
