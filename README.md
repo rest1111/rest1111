@@ -5,7 +5,7 @@
 <img src=/>
 
 <br>
-<img src="(https://alo.ne/file/j4ec4i)" width="200" alt="Cat Mascot" />
+<img src="https://alo.ne/file/j4ec4i" width="200" alt="Cat Mascot" />
 
 <h2>
   <span style="color:#D6BCFA">rest1111</span>
