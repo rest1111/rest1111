@@ -1,41 +1,57 @@
- <!-- README1 -->
-
 <div align="center">
 
-<img src=/>
+<!-- Subtle typing animationy -->
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=4000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=480&lines=rest1111;web+dev+%2F+pixel+art;tailwind+specialist" 
+  alt="Typing SVG" 
+/>
 
-<br>
-<img src="https://alo.ne/file/j4ec4i" width="200" alt="Cat Mascot" />
+<br><br>
 
-<h2>
-  <span style="color:#D6BCFA">rest1111</span>
-</h2>
+<!-- Visitor counter  -->
+<img src="https://api.visitorbadge.io/api/VisitorHit?user=rest1111&repo=rest1111&label=Profile%20Views&labelColor=%23111111&countColor=%23FFFFFF&style=flat&color=%23333333" alt="Profile Views"/>
 
-<p>
-  <b>✨ Web Developer • GFX Artist • Pixel Art Addict ✨</b><br>
-  <img src="https://img.shields.io/badge/Favorite%20Lang-Tailwind%20CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white">
-  <img src="https://img.shields.io/badge/Colors-Purple,%20Black%20%26%20White-8B5CF6?style=for-the-badge">
+<br><br>
+
+<!-- GitHub stats  -->
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=rest1111&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=cccccc&text_color=aaaaaa&icon_color=888888&border_radius=8" 
+  alt="GitHub Stats"
+/>
+
+<br><br>
+
+<!-- Streak stats  -->
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=rest1111&theme=dark&hide_border=true&background=0d1117&stroke=000000&fire=cccccc&currStreakNum=cccccc&sideNums=aaaaaa&currStreakLabel=888888&sideLabels=888888&dates=777777" 
+  alt="Contribution Streak"
+/>
+
+<br><br>
+
+<!--  about section -->
+<p style="color:#cccccc; font-family: 'Courier New', monospace; font-size: 1.1em;">
+  • building clean UIs with Tailwind CSS<br>
+  • pixel art & digital design in spare time<br>
+  • monochrome aesthetic enjoyer<br>
+  • always open to interesting projects
 </p>
 
----
+<br>
 
-🟣 **About Me**
-- Passionate about design, pixels, and web magic  
-- Crafting unique UIs with Tailwind CSS  
-- Always vibing in purple, black, and white
+<!-- Contact - minimal badge -->
+<p>
+  <a href="https://discord.com/users/restidk">
+    <img src="https://img.shields.io/badge/Discord-restidk-36393f?style=flat-square&logo=discord&logoColor=%23FFFFFF&labelColor=%23111111" alt="Discord">
+  </a>
+</p>
 
-🎨 **What I Do**
-- Web development  
-- GFX & graphics work  
-- Pixel art for fun and projects
+<br>
 
----
-
-🤝 **Contact Me**
-- Discord: **restidk** (message me anytime!)
-
----
-
-![Purple Divider](https://capsule-render.vercel.app/api?type=wave&color=8B5CF6&height=80&section=footer)
+<!-- Matte black/white  -->
+<img 
+  src="https://capsule-render.vercel.app/api?type=slice&color=000000&height=60&section=footer&%230d1117" 
+  width="100%"
+/>
 
 </div>
