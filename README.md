@@ -31,9 +31,9 @@
 
 <!--  about section -->
 <p style="color:#cccccc; font-family: 'Courier New', monospace; font-size: 1.1em;">
-  • building clean UIs with Tailwind CSS<br>
+  • building UIs | Tailwind CSS<br>
   • pixel art & digital design in spare time<br>
-  • monochrome aesthetic enjoyer<br>
+  • Youtube enjoyer<br>
   • always open to interesting projects
 </p>
 
@@ -41,7 +41,7 @@
 
 <!-- Contact - minimal badge -->
 <p>
-  <a href="https://discord.com/users/restidk">
+  <a href="https://discord.com/users/restiscool">
     <img src="https://img.shields.io/badge/Discord-restidk-36393f?style=flat-square&logo=discord&logoColor=%23FFFFFF&labelColor=%23111111" alt="Discord">
   </a>
 </p>
