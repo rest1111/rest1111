@@ -2,7 +2,7 @@
 
 <!-- Subtle typing animationy -->
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=4000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=480&lines=rest1111;web+dev+%2F+pixel+art;tailwind+specialist" 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=4000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=480&lines=rest1111;web+dev+%2F+graphic+designer;tailwind+user" 
   alt="Typing SVG" 
 />
 
@@ -42,7 +42,7 @@
 <!-- Contact - minimal badge -->
 <p>
   <a href="https://discord.com/users/restiscool">
-    <img src="https://img.shields.io/badge/Discord-restidk-36393f?style=flat-square&logo=discord&logoColor=%23FFFFFF&labelColor=%23111111" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-restiscool-36393f?style=flat-square&logo=discord&logoColor=%23FFFFFF&labelColor=%23111111" alt="Discord">
   </a>
 </p>
 
