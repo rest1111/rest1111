@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="[https://i.redd.it/h7dae4o0uk461.jpg](https://i.pinimg.com/736x/4a/06/c0/4a06c0b857de77ab76dda6259b4568a0.jpg)" alt="e)" width="320" /> 
+<img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg" alt="Bakaguya made by レヴィノス (https://files.catbox.moe/q0uvjn.jpg)" width="320" /> 
 
 ```csharp
 rest1111@github
