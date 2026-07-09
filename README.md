@@ -13,6 +13,6 @@ Languages: JavaScript, TypeScript,
            HTML, CSS, C#, YARA
 Learning: Node.js, Express, PostgreSQL, C
 Hobbies: Working out, Cooking, youtube
-Commits: 97
+Commits: 117
 Stars: 17
 Discord: restfoenemgrave
